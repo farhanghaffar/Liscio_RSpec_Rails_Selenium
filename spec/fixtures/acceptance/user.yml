@@ -1,0 +1,23 @@
+---
+firm_admin:
+  email: adnan@liscio.me
+  password: Test#123456
+
+firm_employee:
+  email: testing@mailinator.com
+  password: Test#123456
+
+firm_client:
+  email: uatstagingtestmail+1@gmail.com
+  password: IM@gin33r!!
+
+active_liscio_client:
+  email: andrew+qa@liscio.me
+  password: 5Gn?XxPR&b96fF!9
+  initails: 'andrew naylor'
+  full_name: 'Andrew Naylor'
+  associated_account: 'ANGUS ADVENTURES'
+
+firm_admin_automation_qa:
+  email: automation_qa@liscio.me
+  password: Qwerty123!
